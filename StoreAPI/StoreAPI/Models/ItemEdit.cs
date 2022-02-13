@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 namespace StoreAPI.Models
 {
     public class ItemEdit
+        //which have to bisnes logic it`s intity ?????????????
     {
     }
 }
