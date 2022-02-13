@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Сергей\\source\\repos\\StoreAPI\\StoreAPI\\StoreAPI.csproj": {}
+    "C:\\Users\\Сергей\\source\\repos\\Task1\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Сергей\\source\\repos\\StoreAPI\\StoreAPI\\StoreAPI.csproj": {
+    "C:\\Users\\Сергей\\source\\repos\\Task1\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Сергей\\source\\repos\\StoreAPI\\StoreAPI\\StoreAPI.csproj",
-        "projectName": "StoreAPI",
-        "projectPath": "C:\\Users\\Сергей\\source\\repos\\StoreAPI\\StoreAPI\\StoreAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Сергей\\source\\repos\\Task1\\Task1\\Task1.csproj",
+        "projectName": "Task1",
+        "projectPath": "C:\\Users\\Сергей\\source\\repos\\Task1\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Сергей\\source\\repos\\StoreAPI\\StoreAPI\\obj\\",
+        "outputPath": "C:\\Users\\Сергей\\source\\repos\\Task1\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,20 +43,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "Microsoft.AspNet.Mvc": {
-              "target": "Package",
-              "version": "[5.2.7, )"
-            },
-            "Microsoft.AspNetCore.Mvc.Core": {
-              "target": "Package",
-              "version": "[2.2.5, )"
-            },
-            "Microsoft.AspNetCore.Mvc.DataAnnotations": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -68,9 +54,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
